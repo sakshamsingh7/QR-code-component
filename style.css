@@ -1,0 +1,52 @@
+body{
+    background-color:hsl(212, 45%, 89%)
+    
+
+
+}
+.firstDiv{
+    width: 300px;
+    height: 450px;
+    background-color: aliceblue;
+    border-radius:  25px;;
+   
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imageclass{
+    margin-left: 12%;
+    margin-top: 12%;
+   
+    border-radius:25px ;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+    text-shadow: 3px 2px 2px  hsl(220, 15%, 55%);
+}
+.seconddiv{
+    width: 90%;
+    height: 5%;
+    font-size:20px ;
+    font-family: 'Dongle', sans-serif;
+ color: gray;
+   margin-left: 20px;
+  padding-bottom: 80%;
+
+}
+.thirddiv  {
+    margin-bottom: 1px;
+    
+    font-family: 'Dongle', sans-serif;
+    font-size:23px ;
+    text-decoration: underline;
+}
+a:hover{
+    background-color: rgb(78, 241, 57);
+    
+}
+
+    
